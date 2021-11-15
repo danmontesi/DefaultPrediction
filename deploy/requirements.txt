@@ -1,0 +1,4 @@
+Flask>= 1.0
+numpy>=1.21
+scikit-learn>=1.0
+catboost>=1.0
